@@ -115,4 +115,4 @@ This repository is created for learning and demonstrating Operating System conce
 **Shanjayram**
 
 GitHub:
-https://github.com/selvaganesh7707
+https://github.com/selvaganesh7707-ms/OS-PROGRAM
