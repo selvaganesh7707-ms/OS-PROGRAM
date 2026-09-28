@@ -115,4 +115,4 @@ This repository is created for learning and demonstrating Operating System conce
 **Shanjayram**
 
 GitHub:
-https://github.com/shanju1010
+https://github.com/selvaganesh7707
