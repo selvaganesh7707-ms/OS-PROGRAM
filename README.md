@@ -112,7 +112,7 @@ This repository is created for learning and demonstrating Operating System conce
 
 ## 👨‍💻 Author
 
-**Selva Ganesh**
+**M.Selva Ganesh**
 
 GitHub:
 https://github.com/selvaganesh7707-ms/OS-PROGRAM
